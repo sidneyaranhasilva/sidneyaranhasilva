@@ -36,6 +36,9 @@ Meu forte é java.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidneyaranhasilva&theme=transparent&bg_color=005&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sidneyaranhasilva)
 
 
+
+
+
 ## Referência
 
  - [Linkedin](https://www.linkedin.com/in/sidney-aranha-da-silva-936053b1/)
