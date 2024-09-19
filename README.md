@@ -29,7 +29,7 @@ Meu forte é java.
 |3ª|Angular 16|
 
 
-
+# Dados do GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyaranhasilva&theme=transparent&bg_color=005&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sidneyaranhasilva)
 
