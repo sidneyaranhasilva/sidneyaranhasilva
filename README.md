@@ -34,7 +34,12 @@ Meu forte é java.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyaranhasilva&theme=transparent&bg_color=005&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sidneyaranhasilva)
 
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sidneyaranhasilva&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=001&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+# Meu GitHub Stats
+
+[![Total Commits](https://github-readme-stats.vercel.app/api?username=sidneyaranhasilva&count_private=true&show_icons=true&theme=transparent&bg_color=005&border_color=30A3DC&title_color=E94D5F&text_color=FFF&custom_title=Total%20Commits&hide=prs)](https://github.com/sidneyaranhasilva)
+
+
+
 
 ## Referência
 
