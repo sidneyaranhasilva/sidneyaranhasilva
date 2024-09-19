@@ -1,3 +1,4 @@
+
 # Sidney Aranha da Silva
 
 Atuar na área de informática, como analista ou desenvolvedor de sistemas Java ou Android, em que eu possa aplicar aprimorar e adquirir novos conhecimentos e colaborar com o crescimento e bom andamento da empresa à qual me oferecer uma oportunidade de trabalho. 
@@ -29,10 +30,10 @@ Meu forte é java.
 
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidneyaranhasilva&theme=transparent&bg_color=005&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sidneyaranhasilva&layout=compact&bg_color=005&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyaranhasilva&theme=transparent&bg_color=005&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sidneyaranhasilva)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidneyaranhasilva&theme=transparent&bg_color=005&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/sidneyaranhasilva)
 
 
 ## Referência
